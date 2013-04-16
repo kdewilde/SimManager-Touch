@@ -2,6 +2,8 @@ SimManager-Touch
 ================
 
 SimManager port (Extjs to touch 2) to simulate ajax calls
+<br>
+Extjs version can be found in the Extjs SDK examples>ux>ajax created by [@dongryphon](https://twitter.com/dongryphon)
 
 ---
 
